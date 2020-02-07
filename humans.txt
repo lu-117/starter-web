@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lu Sanchez msancheza117@gmail.com	@lu-117
 
 # THANKS
 

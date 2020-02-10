@@ -16,3 +16,6 @@ Mas detalles git diff
 
 add the text in de simple.html
 
+## Copyright
+
+Agregamos cambios... checando Stash

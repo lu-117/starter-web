@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <!--
 ** Modificación, prueba
+<<<<<<< HEAD
+	Addin changes...
+	
+	Se agrega mas desde este puento, para que entre 
+	en conflicto...
+=======
 	Addin changes... Luego agraga mas texto quita y pone desde rama
+	
+>>>>>>> fb adding some trouble to simple.html
 -->
 <head>
 	<title>An Example Websites</title>

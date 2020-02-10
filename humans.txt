@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Add de text
     Lu Sanchez msancheza117@gmail.com	@lu-117
 
 # THANKS
